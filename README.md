@@ -4,7 +4,7 @@ Experiment on AlexNet (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton.
 Dataset:
 	wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 	tar zxvf cifar-10-python.tar.gz
-	wget http://www.cmlab.csie.ntu.edu.tw/~jacky82226/research/alexnet_imagenet.npy
+	wget https://www.dropbox.com/s/8ei5c8dqlro501o/alexnet_place.npy
 
 		Download and decompress cifar 10 dataset (163MB)
 		Download pre-trained AlexNet by imagenet (233MB)
@@ -60,15 +60,16 @@ Description:
   Training code would print epo and loss message on the screen. 
   
   Epo Accuracy
-	1 0.21
-	2 0.533738057325
-	3 0.662320859873
-	4 0.711186305732
-	5 0.728503184713 
-	6 0.748606687898 
-	7 0.765525477707
-	8 0.765824044586
-	9 0.777368630573
+  
+1 0.21
+2 0.533738057325
+3 0.662320859873
+4 0.711186305732
+5 0.728503184713 
+6 0.748606687898 
+7 0.765525477707
+8 0.765824044586
+9 0.777368630573
  11 0.79090366242
  12 0.796476910828 
  14 0.797969745223 
